@@ -5,7 +5,8 @@ Originally wanted to find an open source control with a look, but did not search
 if you have any question, please contact me.
 E-mail: ZUImachao@163.com
 
-![MyProject](http://git.oschina.net/uploads/images/2015/1231/225304_a3114c6b_88777.gif "MyProject")
+![Demo](./image/demo.gif "Demo")
+![MyProject](./image/project.gif "MyProject")
 
 ##Usage:
 ```
