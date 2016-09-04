@@ -5,14 +5,11 @@ Originally wanted to find an open source control with a look, but did not search
 if you have any question, please contact me.
 E-mail: ZUImachao@163.com
 
-
-![SHOW](http://git.oschina.net/uploads/images/2015/1231/221521_a0116f6c_88777.gif "SHOW")
-
 ![MyProject](http://git.oschina.net/uploads/images/2015/1231/225304_a3114c6b_88777.gif "MyProject")
 
 ##Usage:
 ```
-    <com.mahao.team42.lockview.widget.LockView
+    <com.mcourser.lockview.LockView
         android:id="@+id/activity_main_lockView"
         android:layout_width="300dp"
         android:layout_height="300dp"
