@@ -1,4 +1,4 @@
-package com.machao.lockview;
+package com.mcourser.lockview;
 
 import org.junit.Test;
 

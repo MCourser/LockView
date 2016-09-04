@@ -1,4 +1,4 @@
-package com.machao.lockview;
+package com.mcourser.lockview;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
