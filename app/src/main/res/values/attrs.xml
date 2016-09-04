@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LockView">
+        <attr name="colorCircle" format="color" />
+        <attr name="colorLine" format="color" />
+        <attr name="colorPoint" format="color" />
+        <attr name="innerTriggerCircleRadius" format="float" />
+        <attr name="outerCircleRadius" format="float" />
+        <attr name="innerCircleRadius" format="float" />
+        <attr name="minPointCount" format="integer" />
+        <attr name="spanCount" format="integer" />
+        <attr name="isTriggerCircleShow" format="boolean" />
+    </declare-styleable>
+
+</resources>
