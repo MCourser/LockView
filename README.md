@@ -8,6 +8,12 @@ E-mail: ZUImachao@163.com
 ![Demo](./image/demo.gif "Demo")
 ![MyProject](./image/project.gif "MyProject")
 
+
+##Gradle
+```
+compile 'com.mcourser:app:1.0.0'
+```
+
 ##Usage:
 ```
     <com.mcourser.lockview.LockView
