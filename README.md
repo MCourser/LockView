@@ -10,10 +10,8 @@ E-mail: ZUImachao@163.com
 ##Usage:
 ```
     <com.mcourser.lockview.LockView
-        android:id="@+id/activity_main_lockView"
         android:layout_width="300dp"
-        android:layout_height="300dp"
-        android:layout_centerInParent="true" /> 
+        android:layout_height="300dp"/> 
 ```
 
 ```
